@@ -1,4 +1,4 @@
-# Music-Genre-Classification-using-various-ML-Algorithms
+# Music Genre Classification using various ML Algorithms
 
 Musical genres are categorical labels created by humans to characterize pieces of music. A musical genre is characterized by the common characteristics shared by its members. 
 These characteristics typically are related to the instrumentation, rhythmic structure, and harmonic content of the music. Genre hierarchies are commonly used to structure the large collections of music available on the Web. 
